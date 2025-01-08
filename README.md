@@ -8,7 +8,7 @@ It is available for download as a single self-contained PHP file, making it easy
 
 ## Features
 
-- Easy connect to SQLite
+- Easy to connect with SQLite
 - Fresh theme
 - Plugin initialized
 - Easy to install
