@@ -16,10 +16,10 @@ It is available for download as a single self-contained PHP file, making it easy
 
 ## Screenshots
 
-![App Screenshot](screenshot/ss1.png)
-![App Screenshot](screenshot/ss2.png)
-![App Screenshot](screenshot/ss3.png)
-![App Screenshot](screenshot/ss4.png)
+![App Screenshot](screenshots/ss1.png)
+![App Screenshot](screenshots/ss2.png)
+![App Screenshot](screenshots/ss3.png)
+![App Screenshot](screenshots/ss4.png)
 
 
 ## Run Locally
