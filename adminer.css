@@ -93,12 +93,12 @@ form {
 }
 
 form input[type="text"],
-form input[type="password"],
 form select {
     width: 100%;
     padding: 10px;
     margin: 10px 0;
-    border: 2px solid #000;
+    border-style: solid;
+    border-width: 2px 8px 6px 2px;
     border-radius: 4px;
     background-color: #f5f5f5;
     color: #333;
@@ -114,6 +114,13 @@ form button {
     cursor: pointer;
     text-transform: uppercase;
     font-weight: bold;
+}
+
+form input[type="password"] {
+    color: #000;
+    border-style: solid;
+    border-width: 2px 6px 4px 2px;
+    padding: 10px;
 }
 
 input {
@@ -208,10 +215,11 @@ input[type="text"],
 input[type="password"],
 textarea,
 select {
-    width: calc(100% - 24px);
+    /* width: calc(100% - 24px); */
     padding: 10px;
     margin: 10px 0;
-    border: 2px solid #000;
+    border-style: solid;
+    border-width: 2px 6px 4px 2px;
     border-radius: 4px;
     background-color: #fff;
     color: #333;
