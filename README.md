@@ -47,4 +47,7 @@ Once the repository is cloned, you can access the application in your browser at
 ## Authors
 
 - [@RizkiIqbal02](https://github.com/RizkiIqbal02)
-
+- [@RizkiIqbal02](https://github.com/RizkiIqbal02)
+- [@RizkiIqbal02](https://github.com/RizkiIqbal02)
+- [@RizkiIqbal02](https://github.com/RizkiIqbal02)
+- [@RizkiIqbal02](https://github.com/RizkiIqbal02)
