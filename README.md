@@ -12,6 +12,7 @@ It is available for download as a single self-contained PHP file, making it easy
 - Fresh theme
 - Plugin initialized
 - Easy to install
+- Latest AdminerEvo version supported
 
 
 ## Screenshots
