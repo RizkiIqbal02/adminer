@@ -40,6 +40,7 @@ Clone the Repository:
 
 Once the repository is cloned, you can access the application in your browser at: [http://localhost/adminer](http://localhost/adminer)
 
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
